@@ -1,0 +1,6 @@
+[submodule "custom_item"]
+	path = custom_item
+	url = ../custom_item.git
+[submodule "test_custom_item"]
+	path = test_custom_item
+	url = ../test_custom_item.git
